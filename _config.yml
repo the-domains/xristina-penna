@@ -1,0 +1,28 @@
+name: xristina penna
+favicon: null
+layout_spectrum: 0.7044743956066668
+typography_spectrum: 0.678202792070806
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.9980667699128389
+  lightness: 0.24685358139686286
+  saturation: 0.825591605855152
+  rhythmicContrast: 0.2172873264644295
+purpose: []
